@@ -1,0 +1,28 @@
+h1.intro {
+  text-align: center;
+  font-family: arial;
+  color: black;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2.intro {
+  text-align: center;
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+
+p.intro {
+  text-align: left;
+  font-size: 19px;
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%; 
+}
