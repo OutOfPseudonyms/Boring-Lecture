@@ -1,3 +1,13 @@
+.intro {
+  text-align: left;
+  font-size: 19px;
+  font-family: arial;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  
+}
+
 h1.intro {
   text-align: center;
   font-family: arial;
@@ -8,6 +18,7 @@ img.intro {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 534px;
 }
 
 h2.intro {
@@ -16,13 +27,4 @@ h2.intro {
   margin-left: auto;
   margin-right: auto;
   width: 50%; 
-}
-
-p.intro {
-  text-align: left;
-  font-size: 19px;
-  font-family: arial;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%; 
 }
